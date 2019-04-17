@@ -9,10 +9,9 @@
 ```
 //启动websocket服务
 cd yourserverpath
-go mod init wserver
 go mod tidy
 go build .
-[root@i-9yfnjavm ~]# ./wserver
+[root@i-9yfnjavm ~]# ./wsimserver
 ```
 
 ## Usage
